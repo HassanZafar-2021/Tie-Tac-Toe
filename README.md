@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tic-Tac-Toe
 
 ## Description
@@ -51,3 +52,7 @@ Fork & clone repo and make own PR and send code.
 ## Tests
 
 make tests folder and do npm run test.
+=======
+# Tie-Tac-Toe
+React Tic-Tac-Toe Game with reversable timeline options to pick from
+>>>>>>> 3bd58615108ea13702f1cb7ed8ed61867f7a1254
